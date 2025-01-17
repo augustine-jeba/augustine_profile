@@ -22,6 +22,8 @@
 📫 How to reach me: Check social links below.
 
 🛠️ Languages and Tools
+![image](https://github.com/user-attachments/assets/77c231e2-6cc6-4b4d-b3b6-286c0f4959ca)
+
 
 HTML  CSS  JavaScript  React  Redux   Java  Spring  Git
 
