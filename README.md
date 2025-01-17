@@ -1,7 +1,6 @@
 # augustine_profile
-A short Note about me
 
-Hello, I'm Augustine Jebakumar
+# Hello 🖐️, I'm Augustine Jebakumar
 👩‍💻 About Me
 👩🏻‍💻 Pronouns: He/Him
 💼 I’m currently working as a Software Engineer Analyst at Cardinal Health, Bangalore
