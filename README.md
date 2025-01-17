@@ -1,6 +1,4 @@
-# augustine_profile
-
-# Hello 🖐️, I'm Augustine Jebakumar
+  # Hello 🖐️, I'm Augustine Jebakumar
 
 👩‍💻 About Me
 
